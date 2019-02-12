@@ -1,0 +1,4 @@
+﻿  Maxminavg.c
+c:\users\hp\source\repos\pallavivangari\myinternship\ass_1\maxminavg.c\maxminavg.c(20): warning C4013: 'getch' undefined; assuming extern returning int
+  MaxMinAvg.c.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_1\Debug\MaxMinAvg.c.exe
+  MaxMinAvg.c.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_1\Debug\MaxMinAvg.c.pdb (Partial PDB)

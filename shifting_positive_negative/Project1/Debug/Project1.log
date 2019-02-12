@@ -1,0 +1,4 @@
+﻿  shifting_positive.c
+c:\users\hp\source\repos\pallavivangari\myinternship\shifting_positive_negative\project1\shifting_positive.c(34): warning C4013: 'getch' undefined; assuming extern returning int
+  Project1.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\shifting_positive_negative\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\shifting_positive_negative\Debug\Project1.pdb (Partial PDB)

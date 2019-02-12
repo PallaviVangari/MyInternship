@@ -1,0 +1,4 @@
+﻿  prg.c
+c:\users\hp\source\repos\pallavivangari\myinternship\q3\q3\prg.c(17): warning C4013: 'getch' undefined; assuming extern returning int
+  q3.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\q3\Debug\q3.exe
+  q3.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\q3\Debug\q3.pdb (Partial PDB)

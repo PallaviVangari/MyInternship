@@ -1,0 +1,4 @@
+﻿  PosToNeg.c
+c:\users\hp\source\repos\pallavivangari\myinternship\ass_3\positivetonegative\postoneg.c(34): warning C4013: 'getch' undefined; assuming extern returning int
+  PositiveToNegative.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_3\Debug\PositiveToNegative.exe
+  PositiveToNegative.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_3\Debug\PositiveToNegative.pdb (Partial PDB)

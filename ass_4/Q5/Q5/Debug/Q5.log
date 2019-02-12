@@ -1,0 +1,7 @@
+﻿  q5.c
+c:\users\hp\source\repos\pallavivangari\myinternship\ass_4\q5\q5\q5.c(8): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\ass_4\q5\q5\q5.c(8): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\hp\source\repos\pallavivangari\myinternship\ass_4\q5\q5\q5.c(8): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\hp\source\repos\pallavivangari\myinternship\ass_4\q5\q5\q5.c(8): note: this argument is used as a buffer size
+  Q5.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_4\Q5\Debug\Q5.exe
+  Q5.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_4\Q5\Debug\Q5.pdb (Partial PDB)

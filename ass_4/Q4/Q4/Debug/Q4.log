@@ -1,0 +1,4 @@
+﻿  q4.c
+c:\users\hp\source\repos\pallavivangari\myinternship\ass_4\q4\q4\q4.c(20): warning C4013: 'getch' undefined; assuming extern returning int
+  Q4.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_4\Q4\Debug\Q4.exe
+  Q4.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\ass_4\Q4\Debug\Q4.pdb (Partial PDB)
