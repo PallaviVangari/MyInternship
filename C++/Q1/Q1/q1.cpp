@@ -37,7 +37,7 @@ public:
 		}
 		h += t1.h + t2.h;
 		if (h >= 24)
-			h = 0;
+			h = h-24;
 	}
 };
 int main()
