@@ -1,0 +1,17 @@
+﻿  q5.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(25): error C2027: use of undefined type 'Distance2'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(4): note: see declaration of 'Distance2'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(44): error C2248: 'Distance1::m': cannot access private member declared in class 'Distance1'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(8): note: see declaration of 'Distance1::m'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(7): note: see declaration of 'Distance1'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(44): error C2248: 'Distance1::cm': cannot access private member declared in class 'Distance1'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(9): note: see declaration of 'Distance1::cm'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(7): note: see declaration of 'Distance1'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(48): error C2248: 'Distance1::m': cannot access private member declared in class 'Distance1'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(8): note: see declaration of 'Distance1::m'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(7): note: see declaration of 'Distance1'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(49): error C2248: 'Distance1::cm': cannot access private member declared in class 'Distance1'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(9): note: see declaration of 'Distance1::cm'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\q5\q5\q5.cpp(7): note: see declaration of 'Distance1'

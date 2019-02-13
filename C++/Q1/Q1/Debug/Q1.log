@@ -1,0 +1,3 @@
+﻿  q1.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q1\q1\q1.cpp(53): error C2228: left of '.add' must have class/struct/union
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\q1\q1\q1.cpp(55): error C2228: left of '.display' must have class/struct/union
