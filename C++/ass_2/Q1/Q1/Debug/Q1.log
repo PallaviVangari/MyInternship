@@ -1,0 +1,13 @@
+﻿  q1.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(36): error C2275: 'Polar': illegal use of this type as an expression
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(5): note: see declaration of 'Polar'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(36): error C2228: left of '.getCount' must have class/struct/union
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(38): error C2275: 'Polar': illegal use of this type as an expression
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(5): note: see declaration of 'Polar'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(38): error C2228: left of '.getCount' must have class/struct/union
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(41): error C2248: 'Polar::count': cannot access private member declared in class 'Polar'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(8): note: see declaration of 'Polar::count'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(5): note: see declaration of 'Polar'
+c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(43): error C2248: 'Polar::count': cannot access private member declared in class 'Polar'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(8): note: see declaration of 'Polar::count'
+  c:\users\hp\source\repos\pallavivangari\myinternship\c++\ass_2\q1\q1\q1.cpp(5): note: see declaration of 'Polar'
