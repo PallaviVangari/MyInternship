@@ -55,44 +55,48 @@ int main()
 {
 	char *str, *str1;
 	int choice = 0;
-	str = (char*)calloc(100,sizeof(char));
-	str1 = (char*)calloc(100,sizeof(char));
+
 	
-		printf("Enter the string1");
-			scanf("%[^\n]s", str);
-		printf("\nString 1=%s",str);
-		
-			printf("Enter the string2");
-			scanf("%s",str1);
-		printf("\nString 2=%s",str1);
+	str = (char*)malloc(100*sizeof(char));
+	str1 = (char*)malloc(100*sizeof(char));	   
 
 	while(1)
 	{
-		printf("\nEnter 1 for calculating the length 2 for copying strings 3 for comparing strings 4 for concatenating strings 5 for reversing string 6 for exiting");
+		printf("\nEnter 1 for calculating the length 2 for copying strings 3 for comparing strings 4 for concatinating strings 5 for reversing strig 6 for exiting");
 		scanf("%d", &choice);
 
 		switch (choice)
 		{
 		case 1:
-			printf("The length of the string1=%d", stringLength(str));
-				printf("\nThe length of the string2=%d", stringLength(str1));
+			printf("Enter the string");
+			scanf("%s",str);
+			printf("The length of the string=%d", stringLength(str));
 			break;
 		case 2 :
+
+			printf("Enter the string to be copied");
+			scanf("%s", str);
 			stringCopy(str1, str);
-			printf("\nThe string1 is copied to string2. string2 =%s", str1);
+			printf("The string copied =%s", str1);
 			break;
 		case 3:
-			printf("two Strings Comapared=%d", stringCompare(str, str1));
+			printf("Enter 2 strings to be compared");
+			scanf("%s", str);
+			scanf("%s",str1);
+			printf("StringComapred=%d", stringCompare(str, str1));
 			break;
 		case 4:
-
+			printf("Enter 2 strings to be concatenated");
+			scanf("%s", str);
+			scanf("%s",str1);
 			stringConcat(str, str1);
-			printf("\nThe string1 after concatenation with string2 =%s", str);
+			printf("The string after concatenation=%s", str);
 			break;
 		case 5:
-		
+			printf("Enter the string to be reversed");
+			scanf("%s",str);
 			stringReverse(str);
-			printf("\nThe string1 after reversing=%s",str);
+			printf("The string after reversing=%s",str);
 			break;
 		case 6:
 			exit(0);
@@ -105,8 +109,8 @@ int main()
 	
 	
 	
-	
-	getchar();
+	free(str);
+	free(str1);	
 	return 0;
 }
 
