@@ -1,0 +1,8 @@
+﻿  ReadFile.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfile\readfile.cpp(35): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfile\readfile.cpp(35): note: consider using '%ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfile\readfile.cpp(35): note: consider using '%lls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfile\readfile.cpp(35): note: consider using '%Ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfile\readfile.cpp(35): note: consider using '%ws' in the format string
+  ReadFile.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\ReadFile.exe
+  ReadFile.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\ReadFile.pdb (Full PDB)

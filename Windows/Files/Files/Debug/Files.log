@@ -1,0 +1,8 @@
+﻿  createFile.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\files\createfile.cpp(9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPTSTR'
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\files\createfile.cpp(9): note: consider using '%ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\files\createfile.cpp(9): note: consider using '%lls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\files\createfile.cpp(9): note: consider using '%Ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\files\createfile.cpp(9): note: consider using '%ws' in the format string
+  Files.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\Files.exe
+  Files.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\Files.pdb (Full PDB)

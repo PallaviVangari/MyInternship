@@ -1,0 +1,4 @@
+﻿  SRWLock.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\criticalsection\initializingcriticalsection\srwlock\srwlock.cpp(63): warning C4715: 'cir_queue<int>::dequeue': not all control paths return a value
+  SRWLock.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\CriticalSection\InitializingCriticalSection\Debug\SRWLock.exe
+  SRWLock.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\CriticalSection\InitializingCriticalSection\Debug\SRWLock.pdb (Full PDB)

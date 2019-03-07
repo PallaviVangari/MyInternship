@@ -1,0 +1,5 @@
+﻿  SRWlock.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\criticalsection\initializingcriticalsection\srwlock1\srwlock.cpp(80): warning C4715: 'ReaderThread': not all control paths return a value
+c:\users\hp\source\repos\pallavivangari\myinternship\criticalsection\initializingcriticalsection\srwlock1\srwlock.cpp(50): warning C4715: 'WriterThread': not all control paths return a value
+  SRWLock1.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\CriticalSection\InitializingCriticalSection\Debug\SRWLock1.exe
+  SRWLock1.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\CriticalSection\InitializingCriticalSection\Debug\SRWLock1.pdb (Full PDB)

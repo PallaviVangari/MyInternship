@@ -1,0 +1,11 @@
+﻿  parent_child_process.cpp
+parent_child_process.cpp(47): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+parent_child_process.cpp(51): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORD (__stdcall *)(void)'
+parent_child_process.cpp(53): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORD (__stdcall *)(HANDLE)'
+  Generating code
+  1 of 16 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Parent_child_processes.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Release\Parent_child_processes.exe
+  Parent_child_processes.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Release\Parent_child_processes.pdb (Full PDB)

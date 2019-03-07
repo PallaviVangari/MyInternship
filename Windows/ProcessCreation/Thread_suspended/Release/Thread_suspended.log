@@ -1,0 +1,8 @@
+﻿  Thread_suspension_resume.cpp
+  Generating code
+  11 of 15 functions (73.3%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Thread_suspended.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Release\Thread_suspended.exe
+  Thread_suspended.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Release\Thread_suspended.pdb (Full PDB)

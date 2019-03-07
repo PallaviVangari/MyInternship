@@ -1,0 +1,8 @@
+﻿  command_line.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\windows\command_line\command_line\command_line.cpp(42): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\command_line\command_line\command_line.cpp(42): note: consider using '%ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\command_line\command_line\command_line.cpp(42): note: consider using '%lls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\command_line\command_line\command_line.cpp(42): note: consider using '%Ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\command_line\command_line\command_line.cpp(42): note: consider using '%ws' in the format string
+  command_line.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\command_line\Debug\command_line.exe
+  command_line.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\command_line\Debug\command_line.pdb (Full PDB)

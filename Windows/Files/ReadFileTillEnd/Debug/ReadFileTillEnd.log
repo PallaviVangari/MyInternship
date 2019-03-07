@@ -1,0 +1,8 @@
+﻿  ReadFileTillEnd.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfiletillend\readfiletillend.cpp(48): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfiletillend\readfiletillend.cpp(48): note: consider using '%ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfiletillend\readfiletillend.cpp(48): note: consider using '%lls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfiletillend\readfiletillend.cpp(48): note: consider using '%Ls' in the format string
+  c:\users\hp\source\repos\pallavivangari\myinternship\windows\files\readfiletillend\readfiletillend.cpp(48): note: consider using '%ws' in the format string
+  ReadFileTillEnd.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\ReadFileTillEnd.exe
+  ReadFileTillEnd.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\Files\Debug\ReadFileTillEnd.pdb (Full PDB)

@@ -1,0 +1,7 @@
+bhbA pointer to the buffer containing the data to be written to the file or device.
+This buffer must remain valid for the duration of the write operation. The caller must not use this buffer until the write operation is completed.
+nNumberOfBytesToWrite
+The number of bytes to be written to the file or device.
+A value of zero specifies a null write operation. The behavior of a null write operation depends on the underlying file system or communications technology.
+Windows Server 2003 and Windows XP:  Pipe write operations across a network are limited in size per write. The amount varies per platform. For x86 platforms it's 63.97 MB. For x64 platforms it's 31.97 MB. For Itanium it's 63.95 MB. For more information regarding pipes, see the Remarks section.
+lpNumberOfBytesWritten

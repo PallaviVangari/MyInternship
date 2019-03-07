@@ -1,0 +1,4 @@
+﻿  CreateProcess.cpp
+c:\users\hp\source\repos\pallavivangari\myinternship\windows\processcreation\createprocess.cpp(22): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'HANDLE'
+  ProcessCreation.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Debug\ProcessCreation.exe
+  ProcessCreation.vcxproj -> C:\Users\HP\Source\Repos\PallaviVangari\MyInternship\Windows\ProcessCreation\Debug\ProcessCreation.pdb (Full PDB)
